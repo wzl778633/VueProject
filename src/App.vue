@@ -1,9 +1,9 @@
 <template>
   <div id="app" class="m-index">
     <div class="nav">
-      <router-link to="/"><el-button type="success">首页</el-button></router-link>
-      <router-link to="/register"><el-button type="warning">注册</el-button></router-link>
-      <router-link to="/login"><el-button type="danger">登录</el-button></router-link>
+      <router-link to="/"><el-button type="success">首页wzl</el-button></router-link>
+      <router-link to="/register"><el-button type="warning">注册wzl</el-button></router-link>
+      <router-link to="/login"><el-button type="danger">登录wzl</el-button></router-link>
     </div>
     <router-view></router-view>
   </div>
